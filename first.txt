@@ -1,0 +1,2 @@
+cd .. will back the directory up by one. If you want to reach a folder in the parent directory, you can do something like cd ../foldername. You can use the ".." trick as many times as you want to back up through multiple parent directories. For example, cd ../../Applications would take you to Macintosh HD/Applications
+
